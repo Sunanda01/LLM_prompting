@@ -13,7 +13,7 @@ A curated collection of prompt engineering strategies and techniques for working
 
 ## 🧠 What is Large Language Models (LLMs)?
 ### An LLMs is an artificial intelligence (AI) model trained on massive amounts of text data to understand, generate, and reason with human language. 
-### Examples include:
+Examples include:
 - ChatGPT (by OpenAI)
 - Claude (by Anthropic)
 - Gemini (by Google)
