@@ -1,7 +1,11 @@
-# 🚀 **[ChatGPT Prompt Engineering for Developers](https://www.coursera.org/learn/chatgpt-prompt-engineering-for-developers-project/home)**  
-by [DeepLearning.AI](https://www.deeplearning.ai/) and OpenAI.
+# 🚀 **Prompt Engineering Techniques**  
 
 A curated collection of prompt engineering strategies and techniques for working effectively with large language models (LLMs) such as GPT-4, Claude, and others.
+
+> This repository is a curated collection of notes, strategies, and examples based on the Coursera course:  
+> **["ChatGPT Prompt Engineering for Developers"](https://www.coursera.org/learn/chatgpt-prompt-engineering-for-developers-project/home)**
+> by [DeepLearning.AI](https://www.deeplearning.ai/) and OpenAI.
+  
 
 > 📁 Organized into practical, real-world categories like summarizing, transforming, inferring, and more.
 
