@@ -7,6 +7,26 @@ A curated collection of prompt engineering strategies and techniques for working
 
 ---
 
+## 🧠 What is Large Language Models (LLMs)?
+### An LLMs is an artificial intelligence (AI) model trained on massive amounts of text data to understand, generate, and reason with human language. 
+### Examples include:
+- ChatGPT (by OpenAI)
+- Claude (by Anthropic)
+- Gemini (by Google)
+- LLaMA (by Meta)
+
+---
+
+## 💬 What is Prompting?
+### Prompting is how we instruct the model to perform tasks — from summarizing to reasoning or generating creative text.
+
+---
+
+## 📌 Note
+### LLM is the tool. Prompting is how we use it.
+
+---
+
 ## ✍️ Two types of Large Language Models (LLMs)
   - Base LLM
   - Instruction Tuned LLM
